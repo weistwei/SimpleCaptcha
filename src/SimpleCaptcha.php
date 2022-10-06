@@ -1,6 +1,6 @@
 <?php
 
-namespace NickLabs\SimpleCanvas;
+namespace NickLabs\SimpleCaptcha;
 
 use Exception;
 use NickLabs\SimpleCanvas\SimpleCanvas;

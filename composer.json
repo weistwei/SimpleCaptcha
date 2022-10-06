@@ -1,0 +1,20 @@
+{
+    "name": "nicklabs/simple-captcha",
+    "type": "library",
+    "require": {
+        "nicklabs/simple-canvas": "dev-master"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NickLabs\\SimpleCaptcha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nick",
+            "email": "weist.wei@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

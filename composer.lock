@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e2af1e2a78899a18263af56f8e1eda01",
+    "packages": [
+        {
+            "name": "nicklabs/simple-canvas",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/weistwei/simpleCanvas.git",
+                "reference": "35d4b7ac5d50bfdbdb3ac6e0ce1bf3e4902c76c7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/weistwei/simpleCanvas/zipball/35d4b7ac5d50bfdbdb3ac6e0ce1bf3e4902c76c7",
+                "reference": "35d4b7ac5d50bfdbdb3ac6e0ce1bf3e4902c76c7",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "NickLabs\\SimpleCanvas\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "nick",
+                    "email": "weist.wei@gmail.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/weistwei/simpleCanvas/issues",
+                "source": "https://github.com/weistwei/simpleCanvas/tree/master"
+            },
+            "time": "2022-10-06T08:02:42+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "nicklabs/simple-canvas": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}
